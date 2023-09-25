@@ -1,0 +1,14 @@
+{
+  "name": "com.enter_kratos.gameevents",
+  "displayName": "Game Events",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "A no-frills ScriptableObject-based event system",
+  "keywords": [
+    "events"
+  ],
+  "author": {
+    "name": "Dan Ashling-Silva",
+    "url": "https://github.com/EnterKratos/"
+  }
+}
